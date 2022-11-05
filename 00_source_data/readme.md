@@ -9,6 +9,6 @@ Everyone needs to download data from two sources onto your own drive:
 
 1. Drug overdose mortality (*Page 7 on PDS_ProjectSummary.pdf*):
     - Read related section on page 7
-    - Download data via: https://www.dropbox.com/s/kad4dwebr88l3ud/US_VitalStatistics.zip?dl=0 (563KB, summary of mortality for drug and non-drug related causes for every US county from 2003-2015)
+    - Download data via: https://www.dropbox.com/s/kad4dwebr88l3ud/US_VitalStatistics.zip?dl=0 OR check **US_VitalStatistics Folder** (563KB, summary of mortality for drug and non-drug related causes for every US county from 2003-2015)
 
 **According to *PDS_ProjectSummary.pdf (Page 6)*, "we will also likely need at least one other source of data, which you will be required to find on your own."**
