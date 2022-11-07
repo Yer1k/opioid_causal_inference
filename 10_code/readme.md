@@ -1,0 +1,1 @@
+Changed the data_read.ipynb to a py script and moved the notebook to 20. -Andrew
