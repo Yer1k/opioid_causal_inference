@@ -113,15 +113,11 @@ for chunk in pd.read_csv(
         )
         chunk["YEAR"] = chunk["TRANSACTION_DATE"].dt.year
         chunk["MONTH"] = chunk["TRANSACTION_DATE"].dt.month
-        chunk = (
-            chunk.groupby(["COUNTY_NAME", "YEAR", "MONTH"])
-            .agg({"QUANTITY": "sum"})
-            .reset_index()
-        )
 
         wapo_df = pd.concat([wapo_df, chunk])
 
 print("This is a sample of the WAPO DF")
+wapo_df.groupby(["COUNTY_NAME", "YEAR", "MONTH"]).agg({"QUANTITY": "sum"}).reset_index()
 wapo_df.sample(10)
 
 #################################
