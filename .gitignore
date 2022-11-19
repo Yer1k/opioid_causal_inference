@@ -2,3 +2,5 @@ PDS_ProjectSummary.pdf
 .DS_Store
 00_source_data/arcos_all_washpost.tsv
 00_source_data/arcos_all_washpost.tsv.gz
+20_intermediate_files/test.parq*
+00_source_data/TsvToParquet.ipynb
