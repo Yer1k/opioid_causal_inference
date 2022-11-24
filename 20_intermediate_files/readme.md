@@ -9,3 +9,5 @@ All datasers are filtered at the point of ingest to include only the states we a
 #### 3. Vital_clean.csv is the file that contains the vital statistics data for each county in the US
 
 #### 4. Wapo_clean.csv is the file that contains the Washington Post data for each county in the US
+
+#### 5. Analysis_df.csv is the final, cleaned, and merged version of the dataset for the analysis
