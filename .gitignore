@@ -1,6 +1,10 @@
 PDS_ProjectSummary.pdf
 .DS_Store
-00_source_data/arcos_all_washpost.tsv
-00_source_data/arcos_all_washpost.tsv.gz
+
+# ignore the source data big files
+00_source_data/.arcos_all_washpost.*
+00_source_data/prescription_data.zip
+
+
 20_intermediate_files/test.parq*
 00_source_data/TsvToParquet.ipynb
