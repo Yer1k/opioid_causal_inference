@@ -32,9 +32,9 @@ The data was derived from:
 
 ### Policy Impact Report
 
-## [Project Strategy](https://github.com/MIDS-at-Duke/pds-2022-pds_orange/blob/8d7e94705ff1a8c0321b70fb29e7835bec37f803/Project_Strategy.pdf)
+## [Project Strategy](./Project_Strategy.pdf)
 
 The project strategy document outlines the team's approach to solving the analytical problem through a backwards design methodology. The document spells out the hypotheses we are evaluating, namely that we expect to observe decreases in opioid shipments following a policy implementation, as well as an increase in overdose fatalities as addicts turn to other sources. We lay out the data structure needed to accomplish the project, and provide drawings to elaborate on our theories, such as the sample below:
 
-<img src="https://github.com/MIDS-at-Duke/pds-2022-pds_orange/blob/bad7b0fac5707e950f15f533abeae14c4c5d8886/40_docs/sample_plot.png" alt="Sample Plot" width="700"/>
+<img src="./40_docs/sample_plot.png" alt="Sample Plot" width="700"/>
 
